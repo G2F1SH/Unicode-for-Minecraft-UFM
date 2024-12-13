@@ -1,0 +1,95 @@
+{
+  "providers": [
+  {
+    "type": "bitmap",
+    "file": "minecraft:font/fue750.png",
+    "height": 7,
+    "ascent": 7,
+    "chars": ["\ue750"]
+  },
+  {
+    "type": "bitmap",
+    "file": "minecraft:font/fue751.png",
+    "height": 7,
+    "ascent": 7,
+    "chars": ["\ue751"]
+  },
+  {
+    "type": "bitmap",
+    "file": "minecraft:font/fue752.png",
+    "height": 7,
+    "ascent": 7,
+    "chars": ["\ue752"]
+  },
+  {
+    "type": "bitmap",
+    "file": "minecraft:font/fue753.png",
+    "height": 7,
+    "ascent": 7,
+    "chars": ["\ue753"]
+  },
+  {
+    "type": "bitmap",
+    "file": "minecraft:font/fue754.png",
+    "height": 7,
+    "ascent": 7,
+    "chars": ["\ue754"]
+  },
+  {
+    "type": "bitmap",
+    "file": "minecraft:font/fue755.png",
+    "height": 7,
+    "ascent": 7,
+    "chars": ["\ue755"]
+  },
+  {
+    "type": "bitmap",
+    "file": "minecraft:font/fue756.png",
+    "height": 7,
+    "ascent": 7,
+    "chars": ["\ue756"]
+  },
+  {
+    "type": "bitmap",
+    "file": "minecraft:font/fue757.png",
+    "height": 7,
+    "ascent": 7,
+    "chars": ["\ue757"]
+  },
+  {
+    "type": "bitmap",
+    "file": "minecraft:font/fue758.png",
+    "height": 7,
+    "ascent": 7,
+    "chars": ["\ue758"]
+  },
+  {
+    "type": "bitmap",
+    "file": "minecraft:font/fue759.png",
+    "height": 7,
+    "ascent": 7,
+    "chars": ["\ue759"]
+  },
+  {
+    "type": "bitmap",
+    "file": "minecraft:font/fue760.png",
+    "height": 7,
+    "ascent": 7,
+    "chars": ["\ue760"]
+  },
+  {
+    "type": "bitmap",
+    "file": "minecraft:font/fue761.png",
+    "height": 7,
+    "ascent": 7,
+    "chars": ["\ue761"]
+  },
+  {
+    "type": "bitmap",
+    "file": "minecraft:font/fue762.png",
+    "height": 7,
+    "ascent": 7,
+    "chars": ["\ue762"]
+  }
+]
+}
